@@ -55,14 +55,32 @@ The dashboard focuses on the following KPIs (displayed on the Home/Summary pages
 ---
 
 ## Dashboard pages (screenshots included)
-The repository contains high-quality screenshots of the Power BI report pages under `images/`:
+### ✅ Page 1: Home  
+> Overview of the banking data with summary statistics and key visuals.  
 
-1. **Home / Cover Page** — `images/home.png`  
-2. **Loan Analysis** — `images/loan_analysis.png`  
-3. **Deposit Analysis** — `images/deposit_analysis.png`  
-4. **Summary** — `images/summary.png`  
+<img src="powerbi/page1_home.png" alt="Page 1 - Home" width="700"/>
 
-> To replace screenshots with an interactive report, place your `.pbix` file inside `powerbi/`.
+---
+
+### ✅ Page 2: Loan Analysis  
+> Insights into loan distribution, types, and customer segments.  
+
+<img src="powerbi/page2_loan_analysis.png" alt="Page 2 - Loan Analysis" width="700"/>
+
+---
+
+### ✅ Page 3: Deposit Analysis  
+> Breakdown of account balances, deposit types, and correlation patterns.  
+
+<img src="powerbi/page3_deposit_analysis.png" alt="Page 3 - Deposit Analysis" width="700"/>
+
+---
+
+### ✅ Page 4: Summary  
+> Final insights from EDA, including correlations and demographic trends.  
+
+<img src="powerbi/page4_summary.png" alt="Page 4 - Summary" width="700"/>
+
 
 ---
 
