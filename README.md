@@ -127,8 +127,8 @@ openpyxl
 
 ## Contact
 Floyd Steev Santhmayer — Data Analyst  
-Email: floyd.steev@example.com
+Email: floydsteev.santhmayer@gmail.com
 
 ---
 
-*README last updated: 2026-02-15 13:57 UTC*
+
